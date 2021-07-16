@@ -2,7 +2,7 @@
 
 This repo includes a replica of Kosovo's official settlement boundaries from the [Kosovo Cadastral Agency - KGP](http://geoportal.rks-gov.net/en/search) in shapefile format. I took several steps to reproduce this shapefile:
 
-1. I printed high-resolution images of every part of Kosovo interactive map from the KGP site in 1:10,000 resolution with coordinate lines in WSG84 format
+1. I printed high-resolution images for every part of Kosovo interactive map from the KGP site in 1:30,000 scale with coordinate lines in WSG84 format
 2. Then I manually merged these images in paint.net to create a single image the size of several GBs
 3. Finally, I georeferenced the image in QGIS.
 
