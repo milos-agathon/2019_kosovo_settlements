@@ -16,3 +16,6 @@ This repo includes a replica of Kosovo's official settlement boundaries from the
 | lat     | geographic latitude of the settlement in EPSG:4326 geodetic coordinate system  |
 | long    | geographic longitude of the settlement in EPSG:4326 geodetic coordinate system |
 |         |                                                                                |
+
+
+![alt text](https://github.com/milos-agathon/2019_kosovo_settlements/blob/main/2019_kosovo_settlements.png?raw=true)
